@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/*"
-to = "http://139.84.167.74/:splat"
+from = "http://139.84.167.74/login"
+to = "http://139.84.167.74/login"
 status = 200
 force = true
