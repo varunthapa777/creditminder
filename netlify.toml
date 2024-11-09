@@ -1,5 +1,17 @@
 [[redirects]]
-from = "/*"
-to = "http://139.84.169.208/:splat"
+from = "/login"
+to = "http://139.84.167.74/login"
+status = 200
+force = true
+
+[[redirects]]
+from = "/getRecord"
+to = "http://139.84.167.74/getRecord"
+status = 200
+force = true
+
+[[redirects]]
+from = "/addRecord"
+to = "http://139.84.167.74/addRecord"
 status = 200
 force = true
