@@ -1,0 +1,5 @@
+[[redirects]]
+from = "http://139.84.167.74/*"
+to = "/* http://139.84.167.74:splat"
+status = 200
+force = true
