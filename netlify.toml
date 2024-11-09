@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/feed/*"
-  to = "http://139.84.167.74/login/:splat"
-  status = 200
-  force = true
